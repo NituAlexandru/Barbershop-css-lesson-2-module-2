@@ -1,2 +1,2 @@
-# Barbershop-css-lesson-2-module-2
-Barbershop-CSS-stiling
+# html-css-lesson-1-module-1
+ html-css-lesson-1-module-1
